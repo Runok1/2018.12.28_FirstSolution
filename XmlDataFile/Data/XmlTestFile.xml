@@ -1,0 +1,2724 @@
+﻿<?xml version="1.0" ?>
+
+<GetCountriesResult xmlns:i="http://www.w3.org/2001/XMLSchemainstance">
+
+
+        <CountryDto>
+
+          <Id>72</Id>
+
+          <Description>Direct</Description>
+
+          <Code>XX</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>122</Id>
+
+          <Description>Internet Sale</Description>
+
+          <Code>XX</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>284</Id>
+
+          <Description>Walk In</Description>
+
+          <Code>XX</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>308</Id>
+
+          <Description>Bouvet Island</Description>
+
+          <Code>BV</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>302</Id>
+
+          <Description>Western Sahara</Description>
+
+          <Code>EH</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>339</Id>
+
+          <Description>Sint Maarten (Dutch part)</Description>
+
+          <Code>SX</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>305</Id>
+
+          <Description>Tokelau</Description>
+
+          <Code>TK</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>306</Id>
+
+          <Description>Tonga</Description>
+
+          <Code>TO</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>336</Id>
+
+          <Description>Niue</Description>
+
+          <Code>NU</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>326</Id>
+
+          <Description>Palau</Description>
+
+          <Code>PW</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>299</Id>
+
+          <Description>Curaþao</Description>
+
+          <Code>CW</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>340</Id>
+
+          <Description>Pitcairn</Description>
+
+          <Code>PN</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>297</Id>
+
+          <Description>Antarctica</Description>
+
+          <Code>AQ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>331</Id>
+
+          <Description>Samoa</Description>
+
+          <Code>WS</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>296</Id>
+
+          <Description>Aland Islands</Description>
+
+          <Code>AX</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>310</Id>
+
+          <Description>French Southern Territories</Description>
+
+          <Code>TF</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>314</Id>
+
+          <Description>Holy See (Vatican City State)</Description>
+
+          <Code>VA</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>318</Id>
+
+          <Description>Kiribati</Description>
+
+          <Code>KI</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>298</Id>
+
+          <Description>Cook Islands</Description>
+
+          <Code>CK</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>320</Id>
+
+          <Description>Marshall Islands</Description>
+
+          <Code>MH</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>333</Id>
+
+          <Description>Svalbard and Jan Mayen</Description>
+
+          <Code>SJ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>321</Id>
+
+          <Description>Martinique</Description>
+
+          <Code>MQ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>322</Id>
+
+          <Description>Mayotte</Description>
+
+          <Code>YT</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>325</Id>
+
+          <Description>New Caledonia</Description>
+
+          <Code>NC</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>329</Id>
+
+          <Description>Saint Pierre and Miquelon</Description>
+
+          <Code>PM</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>332</Id>
+
+          <Description>Saint BarthÚlemy</Description>
+
+          <Code>BL</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>301</Id>
+
+          <Description>Wallis and Futuna</Description>
+
+          <Code>WF</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>323</Id>
+
+          <Description>Montserrat</Description>
+
+          <Code>MS</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>300</Id>
+
+          <Description>Virgin Islands U.S.</Description>
+
+          <Code>VI</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>304</Id>
+
+          <Description>Turks and Caicos Islands</Description>
+
+          <Code>TC</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>309</Id>
+
+          <Description>British Indian Ocean Territory</Description>
+
+          <Code>IO</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>313</Id>
+
+          <Description>Guernsey</Description>
+
+          <Code>GG</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>338</Id>
+
+          <Description>Northern Mariana Islands</Description>
+
+          <Code>MP</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>311</Id>
+
+          <Description>Christmas Island</Description>
+
+          <Code>CX</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>312</Id>
+
+          <Description>Cocos (Keeling) Islands</Description>
+
+          <Code>CC</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>316</Id>
+
+          <Description>Isle of Man</Description>
+
+          <Code>IM</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>317</Id>
+
+          <Description>Jersey</Description>
+
+          <Code>JE</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>319</Id>
+
+          <Description>Micronesia Federated States of</Description>
+
+          <Code>FM</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>341</Id>
+
+          <Description>Solomon Islands</Description>
+
+          <Code>SB</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>324</Id>
+
+          <Description>Nauru</Description>
+
+          <Code>NR</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>327</Id>
+
+          <Description>Saint Lucia</Description>
+
+          <Code>LC</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>328</Id>
+
+          <Description>Saint Martin (French part)</Description>
+
+          <Code>MF</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>335</Id>
+
+          <Description>South Sudan</Description>
+
+          <Code>SS</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>337</Id>
+
+          <Description>Norfolk Island</Description>
+
+          <Code>NF</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>3</Id>
+
+          <Description>Afghanistan</Description>
+
+          <Code>AF</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>5</Id>
+
+          <Description>Albania</Description>
+
+          <Code>AL</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>6</Id>
+
+          <Description>Algeria</Description>
+
+          <Code>DZ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>277</Id>
+
+          <Description>United States of America</Description>
+
+          <Code>US</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>7</Id>
+
+          <Description>American Samoa</Description>
+
+          <Code>AS</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>8</Id>
+
+          <Description>Andorra</Description>
+
+          <Code>AD</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>9</Id>
+
+          <Description>Angola</Description>
+
+          <Code>AO</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>11</Id>
+
+          <Description>Anguilla</Description>
+
+          <Code>AI</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>13</Id>
+
+          <Description>Antigua and Barbuda</Description>
+
+          <Code>AG</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>14</Id>
+
+          <Description>Argentina</Description>
+
+          <Code>AR</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>15</Id>
+
+          <Description>Armenia</Description>
+
+          <Code>AM</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>16</Id>
+
+          <Description>Aruba</Description>
+
+          <Code>AW</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>17</Id>
+
+          <Description>Australia</Description>
+
+          <Code>AU</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>201</Id>
+
+          <Description>Papua New Guinea</Description>
+
+          <Code>PG</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>18</Id>
+
+          <Description>Austria</Description>
+
+          <Code>AT</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>19</Id>
+
+          <Description>Azerbaijan</Description>
+
+          <Code>AZ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>20</Id>
+
+          <Description>Bahamas</Description>
+
+          <Code>BS</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>21</Id>
+
+          <Description>Bahrain</Description>
+
+          <Code>BH</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>22</Id>
+
+          <Description>Bangladesh</Description>
+
+          <Code>BD</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>23</Id>
+
+          <Description>Barbados</Description>
+
+          <Code>BB</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>24</Id>
+
+          <Description>Belarus</Description>
+
+          <Code>BY</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>26</Id>
+
+          <Description>Belgium</Description>
+
+          <Code>BE</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>27</Id>
+
+          <Description>Belize</Description>
+
+          <Code>BZ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>29</Id>
+
+          <Description>Benin</Description>
+
+          <Code>BJ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>30</Id>
+
+          <Description>Bermuda</Description>
+
+          <Code>BM</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>31</Id>
+
+          <Description>Bhutan</Description>
+
+          <Code>BT</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>32</Id>
+
+          <Description>Bolivia</Description>
+
+          <Code>BO</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>34</Id>
+
+          <Description>Bosnia  Herzegovina</Description>
+
+          <Code>BA</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>36</Id>
+
+          <Description>Brazil</Description>
+
+          <Code>BR</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>275</Id>
+
+          <Description>United Kingdom</Description>
+
+          <Code>GB</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>217</Id>
+
+          <Description>Saint Helena</Description>
+
+          <Code>SH</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>219</Id>
+
+          <Description>Saint Kitts and Nevis</Description>
+
+          <Code>KN</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>38</Id>
+
+          <Description>British Virgin Islands</Description>
+
+          <Code>VG</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>39</Id>
+
+          <Description>Brunei Darussalam</Description>
+
+          <Code>BN</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>40</Id>
+
+          <Description>Bulgaria</Description>
+
+          <Code>BG</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>41</Id>
+
+          <Description>Burkina Faso</Description>
+
+          <Code>BF</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>42</Id>
+
+          <Description>Myanmar</Description>
+
+          <Code>MM</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>43</Id>
+
+          <Description>Burundi</Description>
+
+          <Code>BI</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>44</Id>
+
+          <Description>Cambodia</Description>
+
+          <Code>KH</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>46</Id>
+
+          <Description>Cameroon</Description>
+
+          <Code>CM</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>47</Id>
+
+          <Description>Canada</Description>
+
+          <Code>CA</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>49</Id>
+
+          <Description>Cape Verde</Description>
+
+          <Code>CV</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>52</Id>
+
+          <Description>Cayman Islands</Description>
+
+          <Code>KY</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>53</Id>
+
+          <Description>Central African Republic</Description>
+
+          <Code>CF</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>54</Id>
+
+          <Description>Chad</Description>
+
+          <Code>TD</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>55</Id>
+
+          <Description>Chile</Description>
+
+          <Code>CL</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>57</Id>
+
+          <Description>China</Description>
+
+          <Code>CN</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>117</Id>
+
+          <Description>Hong Kong</Description>
+
+          <Code>HK</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>60</Id>
+
+          <Description>Colombia</Description>
+
+          <Code>CO</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>61</Id>
+
+          <Description>Comoros</Description>
+
+          <Code>KM</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>294</Id>
+
+          <Description>Democratic Republic of Congo</Description>
+
+          <Code>CD</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>62</Id>
+
+          <Description>Congo</Description>
+
+          <Code>CG</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>64</Id>
+
+          <Description>Costa Rica</Description>
+
+          <Code>CR</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>67</Id>
+
+          <Description>Croatia</Description>
+
+          <Code>HR</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>68</Id>
+
+          <Description>Cuba</Description>
+
+          <Code>CU</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>69</Id>
+
+          <Description>Cyprus</Description>
+
+          <Code>CY</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>70</Id>
+
+          <Description>Czech Republic</Description>
+
+          <Code>CZ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>71</Id>
+
+          <Description>Denmark</Description>
+
+          <Code>DK</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>87</Id>
+
+          <Description>Faroe Islands</Description>
+
+          <Code>FO</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>73</Id>
+
+          <Description>Djibouti</Description>
+
+          <Code>DJ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>75</Id>
+
+          <Description>Dominican Republic</Description>
+
+          <Code>DO</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>74</Id>
+
+          <Description>Dominica</Description>
+
+          <Code>DM</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>183</Id>
+
+          <Description>Netherlands</Description>
+
+          <Code>NL</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>77</Id>
+
+          <Description>TimorLeste</Description>
+
+          <Code>TL</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>78</Id>
+
+          <Description>Ecuador</Description>
+
+          <Code>EC</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>79</Id>
+
+          <Description>Egypt</Description>
+
+          <Code>EG</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>274</Id>
+
+          <Description>United Arab Emirates</Description>
+
+          <Code>AE</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>82</Id>
+
+          <Description>Eritrea</Description>
+
+          <Code>ER</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>83</Id>
+
+          <Description>Estonia</Description>
+
+          <Code>EE</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>84</Id>
+
+          <Description>Ethiopia</Description>
+
+          <Code>ET</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>88</Id>
+
+          <Description>Fiji</Description>
+
+          <Code>FJ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>89</Id>
+
+          <Description>Finland</Description>
+
+          <Code>FI</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>104</Id>
+
+          <Description>Guadeloupe</Description>
+
+          <Code>GP</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>90</Id>
+
+          <Description>France</Description>
+
+          <Code>FR</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>91</Id>
+
+          <Description>French Guiana</Description>
+
+          <Code>GF</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>92</Id>
+
+          <Description>French Polynesia</Description>
+
+          <Code>PF</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>93</Id>
+
+          <Description>Gabon</Description>
+
+          <Code>GA</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>94</Id>
+
+          <Description>Gambia</Description>
+
+          <Code>GM</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>96</Id>
+
+          <Description>Georgia</Description>
+
+          <Code>GE</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>97</Id>
+
+          <Description>Germany</Description>
+
+          <Code>DE</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>98</Id>
+
+          <Description>Ghana</Description>
+
+          <Code>GH</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>99</Id>
+
+          <Description>Gibraltar</Description>
+
+          <Code>GI</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>101</Id>
+
+          <Description>Greece</Description>
+
+          <Code>GR</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>102</Id>
+
+          <Description>Greenland</Description>
+
+          <Code>GL</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>103</Id>
+
+          <Description>Grenada</Description>
+
+          <Code>GD</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>105</Id>
+
+          <Description>Guam</Description>
+
+          <Code>GU</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>108</Id>
+
+          <Description>Guatemala</Description>
+
+          <Code>GT</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>110</Id>
+
+          <Description>Guinea</Description>
+
+          <Code>GN</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>81</Id>
+
+          <Description>Equatorial Guinea</Description>
+
+          <Code>GQ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>111</Id>
+
+          <Description>GuineaBissau</Description>
+
+          <Code>GW</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>112</Id>
+
+          <Description>Guyana</Description>
+
+          <Code>GY</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>113</Id>
+
+          <Description>Haiti</Description>
+
+          <Code>HT</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>116</Id>
+
+          <Description>Honduras</Description>
+
+          <Code>HN</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>118</Id>
+
+          <Description>Hungary</Description>
+
+          <Code>HU</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>119</Id>
+
+          <Description>Iceland</Description>
+
+          <Code>IS</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>120</Id>
+
+          <Description>India</Description>
+
+          <Code>IN</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>121</Id>
+
+          <Description>Indonesia</Description>
+
+          <Code>ID</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>123</Id>
+
+          <Description>Iran</Description>
+
+          <Code>IR</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>124</Id>
+
+          <Description>Iraq</Description>
+
+          <Code>IQ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>125</Id>
+
+          <Description>Ireland</Description>
+
+          <Code>IE</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>129</Id>
+
+          <Description>Israel</Description>
+
+          <Code>IL</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>130</Id>
+
+          <Description>Italy</Description>
+
+          <Code>IT</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>131</Id>
+
+          <Description>Cote d'Ivoire</Description>
+
+          <Code>CI</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>132</Id>
+
+          <Description>Jamaica</Description>
+
+          <Code>JM</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>133</Id>
+
+          <Description>Japan</Description>
+
+          <Code>JP</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>135</Id>
+
+          <Description>Jordan</Description>
+
+          <Code>JO</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>136</Id>
+
+          <Description>Kazakhstan</Description>
+
+          <Code>KZ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>137</Id>
+
+          <Description>Kenya</Description>
+
+          <Code>KE</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>139</Id>
+
+          <Description>Korea</Description>
+
+          <Code>KR</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>193</Id>
+
+          <Description>North Korea</Description>
+
+          <Code>KP</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>140</Id>
+
+          <Description>Kosovo</Description>
+
+          <Code>XK</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>141</Id>
+
+          <Description>Kuwait</Description>
+
+          <Code>KW</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>143</Id>
+
+          <Description>Kyrgyzstan</Description>
+
+          <Code>KG</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>144</Id>
+
+          <Description>Laos</Description>
+
+          <Code>LA</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>145</Id>
+
+          <Description>Latvia</Description>
+
+          <Code>LV</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>146</Id>
+
+          <Description>Lebanon</Description>
+
+          <Code>LB</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>148</Id>
+
+          <Description>Liberia</Description>
+
+          <Code>LR</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>149</Id>
+
+          <Description>Libya</Description>
+
+          <Code>LY</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>150</Id>
+
+          <Description>Liechtenstein</Description>
+
+          <Code>LI</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>151</Id>
+
+          <Description>Lithuania</Description>
+
+          <Code>LT</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>152</Id>
+
+          <Description>Luxembourg</Description>
+
+          <Code>LU</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>154</Id>
+
+          <Description>Macedonia</Description>
+
+          <Code>MK</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>155</Id>
+
+          <Description>Madagascar</Description>
+
+          <Code>MG</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>156</Id>
+
+          <Description>Malawi</Description>
+
+          <Code>MW</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>157</Id>
+
+          <Description>Malaysia</Description>
+
+          <Code>MY</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>158</Id>
+
+          <Description>Maldives</Description>
+
+          <Code>MV</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>160</Id>
+
+          <Description>Mali</Description>
+
+          <Code>ML</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>161</Id>
+
+          <Description>Malta</Description>
+
+          <Code>MT</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>166</Id>
+
+          <Description>Mauritania</Description>
+
+          <Code>MR</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>167</Id>
+
+          <Description>Mauritius</Description>
+
+          <Code>MU</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>169</Id>
+
+          <Description>Mexico</Description>
+
+          <Code>MX</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>172</Id>
+
+          <Description>Moldova</Description>
+
+          <Code>MD</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>173</Id>
+
+          <Description>Monaco</Description>
+
+          <Code>MC</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>174</Id>
+
+          <Description>Mongolia</Description>
+
+          <Code>MN</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>175</Id>
+
+          <Description>Montenegro</Description>
+
+          <Code>ME</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>177</Id>
+
+          <Description>Morocco</Description>
+
+          <Code>MA</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>35</Id>
+
+          <Description>Botswana</Description>
+
+          <Code>BW</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>178</Id>
+
+          <Description>Mozambique</Description>
+
+          <Code>MZ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>180</Id>
+
+          <Description>Namibia</Description>
+
+          <Code>NA</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>182</Id>
+
+          <Description>Nepal</Description>
+
+          <Code>NP</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>186</Id>
+
+          <Description>New Zealand</Description>
+
+          <Code>NZ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>187</Id>
+
+          <Description>Nicaragua</Description>
+
+          <Code>NI</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>189</Id>
+
+          <Description>Nigeria</Description>
+
+          <Code>NG</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>188</Id>
+
+          <Description>Niger</Description>
+
+          <Code>NE</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>195</Id>
+
+          <Description>Norway</Description>
+
+          <Code>NO</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>196</Id>
+
+          <Description>Oman</Description>
+
+          <Code>OM</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>197</Id>
+
+          <Description>Pakistan</Description>
+
+          <Code>PK</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>199</Id>
+
+          <Description>Palestine</Description>
+
+          <Code>PS</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>200</Id>
+
+          <Description>Panama</Description>
+
+          <Code>PA</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>202</Id>
+
+          <Description>Paraguay</Description>
+
+          <Code>PY</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>204</Id>
+
+          <Description>Peru</Description>
+
+          <Code>PE</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>205</Id>
+
+          <Description>Philippines</Description>
+
+          <Code>PH</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>207</Id>
+
+          <Description>Poland</Description>
+
+          <Code>PL</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>209</Id>
+
+          <Description>Portugal</Description>
+
+          <Code>PT</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>211</Id>
+
+          <Description>Puerto Rico</Description>
+
+          <Code>PR</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>212</Id>
+
+          <Description>Qatar</Description>
+
+          <Code>QA</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>213</Id>
+
+          <Description>Reunion</Description>
+
+          <Code>RE</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>214</Id>
+
+          <Description>Romania</Description>
+
+          <Code>RO</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>215</Id>
+
+          <Description>Russia</Description>
+
+          <Code>RU</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>216</Id>
+
+          <Description>Rwanda</Description>
+
+          <Code>RW</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>80</Id>
+
+          <Description>El Salvador</Description>
+
+          <Code>SV</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>224</Id>
+
+          <Description>San Marino</Description>
+
+          <Code>SM</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>225</Id>
+
+          <Description>Sao Tome and Principe</Description>
+
+          <Code>ST</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>228</Id>
+
+          <Description>Saudi Arabia</Description>
+
+          <Code>SA</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>229</Id>
+
+          <Description>Senegal</Description>
+
+          <Code>SN</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>230</Id>
+
+          <Description>Serbia</Description>
+
+          <Code>RS</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>232</Id>
+
+          <Description>Seychelles</Description>
+
+          <Code>SC</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>234</Id>
+
+          <Description>Sierra Leone</Description>
+
+          <Code>SL</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>235</Id>
+
+          <Description>Singapore</Description>
+
+          <Code>SG</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>236</Id>
+
+          <Description>Slovakia</Description>
+
+          <Code>SK</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>237</Id>
+
+          <Description>Slovenia</Description>
+
+          <Code>SI</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>241</Id>
+
+          <Description>Somalia</Description>
+
+          <Code>SO</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>242</Id>
+
+          <Description>South Africa</Description>
+
+          <Code>ZA</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>147</Id>
+
+          <Description>Lesotho</Description>
+
+          <Code>LS</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>244</Id>
+
+          <Description>Spain</Description>
+
+          <Code>ES</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>245</Id>
+
+          <Description>Sri Lanka</Description>
+
+          <Code>LK</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>248</Id>
+
+          <Description>Sudan</Description>
+
+          <Code>SD</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>249</Id>
+
+          <Description>Suriname</Description>
+
+          <Code>SR</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>250</Id>
+
+          <Description>Swaziland</Description>
+
+          <Code>SZ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>251</Id>
+
+          <Description>Sweden</Description>
+
+          <Code>SE</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>255</Id>
+
+          <Description>Switzerland</Description>
+
+          <Code>CH</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>256</Id>
+
+          <Description>Syria</Description>
+
+          <Code>SY</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>257</Id>
+
+          <Description>Taiwan</Description>
+
+          <Code>TW</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>258</Id>
+
+          <Description>Tajikistan</Description>
+
+          <Code>TJ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>259</Id>
+
+          <Description>Tanzania</Description>
+
+          <Code>TZ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>260</Id>
+
+          <Description>Thailand</Description>
+
+          <Code>TH</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>261</Id>
+
+          <Description>Togo</Description>
+
+          <Code>TG</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>264</Id>
+
+          <Description>Trinidad and Tobago</Description>
+
+          <Code>TT</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>265</Id>
+
+          <Description>Tunisia</Description>
+
+          <Code>TN</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>266</Id>
+
+          <Description>Turkey</Description>
+
+          <Code>TR</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>267</Id>
+
+          <Description>Turkmenistan</Description>
+
+          <Code>TM</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>270</Id>
+
+          <Description>Tuvalu</Description>
+
+          <Code>TV</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>271</Id>
+
+          <Description>Uganda</Description>
+
+          <Code>UG</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>272</Id>
+
+          <Description>Ukraine</Description>
+
+          <Code>UA</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>278</Id>
+
+          <Description>Uruguay</Description>
+
+          <Code>UY</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>279</Id>
+
+          <Description>Uzbekistan</Description>
+
+          <Code>UZ</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>280</Id>
+
+          <Description>Vanuatu</Description>
+
+          <Code>VU</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>281</Id>
+
+          <Description>Venezuela</Description>
+
+          <Code>VE</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>282</Id>
+
+          <Description>Vietnam</Description>
+
+          <Code>VN</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>288</Id>
+
+          <Description>Yemen</Description>
+
+          <Code>YE</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>290</Id>
+
+          <Description>Zambia</Description>
+
+          <Code>ZM</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>291</Id>
+
+          <Description>Zimbabwe</Description>
+
+          <Code>ZW</Code>
+
+        </CountryDto>
+
+
+        <CountryDto>
+
+          <Id>153</Id>
+
+          <Description>Macao</Description>
+
+          <Code>MO</Code>
+
+        </CountryDto>
+
+      </GetCountriesResult>
+
+
